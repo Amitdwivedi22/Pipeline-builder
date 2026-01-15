@@ -1,4 +1,4 @@
-# VectorShift Pipeline Builder
+# Pipeline Builder
 
 A node-based pipeline builder  
 The application allows users to visually construct pipelines using nodes and edges, submit the pipeline, and analyze its structure using backend DAG validation.
